@@ -1,0 +1,27 @@
+{
+  "name": "to-done-oefening-vanAssJudith",
+  "version": "0.0.2",
+  "description": "A small app to keep track of my todos.",
+  "main": "null",
+  "repository": "https://github.com/Frontend-MCT/to-done-oefening-vanAssJudith.git",
+  "author": "vanAssJudith <judith.van.ass@student.howest.be>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "gulp serve"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-loader": "^8.0.5",
+    "browser-sync": "^2.26.3",
+    "browsersync": "^0.0.1-security",
+    "eslint": "^5.15.1",
+    "global": "^4.3.2",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-plumber": "^1.2.1",
+    "webpack": "^4.29.6",
+    "webpack-stream": "^5.2.1"
+  }
+}
